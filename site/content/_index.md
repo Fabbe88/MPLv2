@@ -16,11 +16,10 @@ intro:
     combinations of data types are currently being featured.
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: "Video & GPS Data: combining video file formats, such as .mp4 with
+      geolocation data, such as .gpx allows for a synchronized view of the
+      creator's camera and his or her location on a map. Both media files are
+      played simultaneously within one CSS module."
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
