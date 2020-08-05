@@ -16,10 +16,10 @@ intro:
     combinations of data types are currently being featured.
 data formats:
   - image: img/illustrations-coffee.svg
-    text: Video & GPS Data: combining video file formats, such as .mp4 with
+    text: "Video & GPS Data: combining video file formats, such as .mp4 with
       geolocation data, such as .gpx allows for a synchronized view of the
       creator's camera and his or her location on a map. Both media files are
-      played simultaneously within one CSS module.
+      played simultaneously within one CSS module."
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
