@@ -1,10 +1,13 @@
 ---
 title: Multimedial Project Logging
-subtitle: A website created by PrimoViking
+subtitle: Publishing various data formats in a visually comprehensible way
 image: img/banner.png
 blurb:
   heading: What is Multimedial Project Logging?
-  text: Multimedial Project Logging (MPL) is a new form to publish digital content.
+  text: Multimedial Project Logging (MPL) is a new form of publishing digital
+    content. The creator has the possibility of combining two or more data
+    formats in a visually appealing and comprehensible way to make him-/herself
+    better understood.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
