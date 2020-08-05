@@ -16,11 +16,10 @@ intro:
     combinations of data types are currently being featured.
 data formats:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: "Video & GPS Data: combining video file formats, such as .mp4 with
+      geolocation data, such as .gpx allows for a synchronized view of the
+      creator's camera and his or her location on a map. Both media files are
+      played simultaneously within one CSS module."
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
@@ -28,8 +27,8 @@ data formats:
       fall in love with in our shop.
 software tools:
   heading: Software Tools
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: The creator's workflow depends on hardware to collect the data, software
+    and hardware to read and edit the data and web applications that run on the
+    webserver to build the site and display the data streams correctly. Read
+    about a few examples here.
 ---
