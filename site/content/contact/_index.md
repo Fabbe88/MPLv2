@@ -3,7 +3,7 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Discord
-    text: "https://discord.gg/cqyQ2V"
+    text: "https://discord.gg/cqyQ2V   "
   - heading: GitHub
     text: "https://github.com/Fabbe88/"
 ---
