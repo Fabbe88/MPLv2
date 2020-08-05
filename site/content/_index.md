@@ -1,10 +1,10 @@
 ---
 values:
   heading: Software Tools
-  text: The creator's workflow depends on hardware to collect the data, software
-    and hardware to read and edit the data and web applications that run on the
-    webserver to build the site and display the data streams correctly. Read
-    about a few examples here.
+  text: The creator's workflow depends on hardware to collect the data and
+    software to read and edit the data. Web applications run on the webserver to
+    build the site and display the data streams correctly. Read about a few work
+    flow examples here.
 software tools:
   heading: Software Tools
   text: The creator's workflow depends on hardware to collect the data, software
