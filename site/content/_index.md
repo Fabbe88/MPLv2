@@ -14,7 +14,7 @@ intro:
     logged by different data formats. The goal is to test the practicability of
     this approach for both the creators and the viewers. Mainly, two
     combinations of data types are currently being featured.
-products:
+data formats:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
@@ -26,7 +26,7 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
-values:
+software tools:
   heading: Software Tools
   text: Coffee is an amazing part of human culture but it has a dark side too –
     one of colonialism and mindless abuse of natural resources and human lives.

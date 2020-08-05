@@ -1,6 +1,6 @@
 ---
-title: Our Coffee
-type: products
+title: "Data Formats"
+type: data formats
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
