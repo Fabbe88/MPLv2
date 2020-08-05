@@ -27,8 +27,8 @@ products:
       fall in love with in our shop.
 values:
   heading: Software Tools
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: The creator's workflow depends on hardware to collect the data, software
+    and hardware to read and edit the data and web applications that run on the
+    webserver to build the site and display the data streams correctly. Read
+    about a few examples here.
 ---
