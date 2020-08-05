@@ -1,11 +1,9 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
-  - heading: Discord
-    text: "https://discord.gg/cqyQ2V   "
   - heading: GitHub
-    text: "https://github.com/Fabbe88/"
+    text: https://github.com/Fabbe88/
 ---
 
 We’d love to get in touch with you and hear your ideas and
