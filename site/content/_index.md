@@ -1,16 +1,19 @@
 ---
 title: Multimedial Project Logging
-subtitle: A website created by PrimoViking
+subtitle: Publishing various data formats in a visually comprehensible way
 image: img/banner.png
 blurb:
   heading: What is Multimedial Project Logging?
-  text: Multimedial Project Logging (MPL) is a new form to publish digital content.
+  text: Multimedial Project Logging (MPL) is a new form of publishing digital
+    content. The creator has the possibility of combining two or more data
+    formats in a visually appealing and comprehensible way to transport more
+    information without confusing the viewer.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Data Formats
+  text: At the moment, this site is publishing various projects that have been
+    logged by different data formats. The goal is to test the practicability of
+    this approach for both the creators and the viewers. Mainly, two
+    combinations of data types are currently being featured.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
@@ -24,7 +27,7 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: Software Tools
   text: Coffee is an amazing part of human culture but it has a dark side too –
     one of colonialism and mindless abuse of natural resources and human lives.
     We want to turn this around and return the coffee trade to the drink’s
