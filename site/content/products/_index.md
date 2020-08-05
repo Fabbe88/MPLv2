@@ -1,6 +1,6 @@
 ---
-title: "Data Formats"
-type: data formats
+title: "Products"
+type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
