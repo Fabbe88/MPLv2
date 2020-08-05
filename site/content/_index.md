@@ -6,14 +6,14 @@ blurb:
   heading: What is Multimedial Project Logging?
   text: Multimedial Project Logging (MPL) is a new form of publishing digital
     content. The creator has the possibility of combining two or more data
-    formats in a visually appealing and comprehensible way to make him-/herself
-    better understood.
+    formats in a visually appealing and comprehensible way to transport more
+    information without confusing the viewer.
 intro:
   heading: Data Formats
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: At the moment, this site is publishing various projects that have been
+    logged by different data formats. The goal is to test the practicability of
+    this approach for both the creators and the viewers. Mainly, two
+    combinations of data types are currently being featured.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
