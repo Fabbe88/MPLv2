@@ -3,6 +3,10 @@ title: Hiking in Southern Norway
 date: 2020-08-05T12:32:48.354Z
 description: Test
 ---
+{{< youtube id="uXyy7lgDj9k" >}}
+
+
+
 Testlkjh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uXyy7lgDj9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
