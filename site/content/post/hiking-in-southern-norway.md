@@ -9,6 +9,7 @@ description: Test
 
 {{< GPS 20200805053731-42090-map.html>}}
 
+{{< youtube id="uXyy7lgDj9k" >< GPS 20200805053731-42090-map.html>}}
 
 {{< comb1 20200805053731-42090-map.html uXyy7lgDj9k>}}
 
