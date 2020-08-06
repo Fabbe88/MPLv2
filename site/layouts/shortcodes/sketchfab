@@ -1,0 +1,11 @@
+3D Model display
+
+{{ if .IsNamedParams }}
+  <div class="{{ if .Get "class" }}{{ .Get "class" }}{{ else }}3D-container{{ end }}">
+    <iframe src="https://sketchfab.com/models/{{ .Get "id" }}" allowfullscreen></iframe>
+  </div>
+{{ else }}
+  <div class="{{ if len .Params | eq 2 }}{{ .Get 1 }}{{ else }}3D-container{{ end }}">
+    <iframe src="https://sketchfab.com/models/{{ .Get 0 }}" allowfullscreen></iframe>
+  </div>
+{{ end }}
