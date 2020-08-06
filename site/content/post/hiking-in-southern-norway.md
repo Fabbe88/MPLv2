@@ -9,6 +9,9 @@ description: Test
 
 {{< GPS 20200805053731-42090-map.html>}}
 
+
+{{< comb1 20200805053731-42090-map.html uXyy7lgDj9k>}}
+
 Testlkjh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uXyy7lgDj9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -9,12 +9,7 @@ GPS & Video Box
     <iframe src="https://www.gpsvisualizer.com/display/{{ .Get 0 }}" allowfullscreen></iframe>
   </div>
 {{ end }}
-{{ if .IsNamedParams }}
-  <div class="{{ if .Get "class" }}{{ .Get "class" }}{{ else }}vimeo-container{{ end }}">
-    <iframe src="https://player.vimeo.com/video/{{ .Get "id" }}" allowfullscreen></iframe>
-  </div>
-{{ else }}
-  <div class="{{ if len .Params | eq 2 }}{{ .Get 1 }}{{ else }}vimeo-container{{ end }}">
-    <iframe src="https://player.vimeo.com/video/{{ .Get 0 }}" allowfullscreen></iframe>
-  </div>
-{{ end }}
+<div class="embed video-player">
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="https://www.youtube.com/embed/{{ index .Params 0 }}" allowfullscreen frameborder="0">
+</iframe>
+</div>
