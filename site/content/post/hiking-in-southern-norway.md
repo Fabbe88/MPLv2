@@ -7,6 +7,8 @@ description: Test
 
 {{< sketchfab 171a047c08bc4dd588cca5ac744e8065>}}
 
+{{< GPS 20200805053731-42090-map.html>}}
+
 Testlkjh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uXyy7lgDj9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
