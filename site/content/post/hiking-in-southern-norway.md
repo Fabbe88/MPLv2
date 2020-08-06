@@ -5,7 +5,7 @@ description: Test
 ---
 {{< youtube id="uXyy7lgDj9k" >}}
 
-{{< sketchfab 171a047c08bc4dd588cca5ac744e8065>}}
+{{< sketchfab id="171a047c08bc4dd588cca5ac744e8065" >}}
 
 Testlkjh
 
